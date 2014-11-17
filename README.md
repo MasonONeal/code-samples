@@ -1,2 +1,2 @@
-code-samples
-============
+Code Samples
+------------
